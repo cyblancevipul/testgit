@@ -1,11 +1,11 @@
-datetimepicker
+datetimepicker cyblance add
 ==============
 [Documentation][doc]
 
 
 jQuery Plugin Date and Time Picker
 
-DateTimePicker
+DateTimePicker add
 
 ![ScreenShot](/screen/1.png)
 
